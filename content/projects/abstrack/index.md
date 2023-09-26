@@ -1,12 +1,12 @@
 +++
 title = "Abstrack"
-date = 2023-09-25T15:10:29.000Z
+date = 2023-05-25T15:10:29.000Z
 draft = false
-summary = "3D action-parkour video game project made in Unity."
+summary = "3D action-parkour with chaotic environment."
 tags = [ "3D", "parkour", "unity", "first person" ]
 categories = [ "game" ]
 slug = "abstrack"
-keywords = []
+keywords = [ ]
 +++
 
 ## Escape the chaos
@@ -26,7 +26,7 @@ This is my biggest project until this day, I've worked with 3 friends during 6 m
 
 ## My job
 
-I've contributed to all of the character's animation system, the audio which is vital for a good immersion, mechanics related to character movement, post-processing, on the level design with this chaotic and moving environment, and many other interesting stuff !
+I've contributed to all of the character's **animation system**, the audio which is vital for a good immersion, mechanics related to character movement, abilities, saves, post-processing, on the **level design** with this minimal still chaotic and moving environment, and many other interesting stuff !
 
 ## More...
 

@@ -53,6 +53,19 @@
           "name": "keywords",
           "type": "fields",
           "fields": []
+        },
+        {
+          "title": "series",
+          "name": "series",
+          "type": "choice",
+          "choices": [
+            "Project"
+          ]
+        },
+        {
+          "title": "series_order",
+          "name": "series_order",
+          "type": "number"
         }
       ]
     }
