@@ -12,14 +12,14 @@ slug = "aiproject"
 
 Help the teacher Albert Inneiste with collecting data in order to train the brand new artificial intelligence ! You have to make it reach the other side of the room by itself.
 
-![](/AIProjectDialogue.jpg)
+![dialogue](/AIProjectDialogue.jpg)
 
 ## Popularize AI
 
 This serious game is aiming to popularize simple concepts of AI and to remove the mystique surrounding it. You have to fill the AI with data by playing a mini-game, if your patterns are optimal then you're good to go, if they're bad the AI will not be efficient or will completely ruin its path.
 
-![](/AIProjectMinijeu.jpg)
-![](/AIProjectMinijeu2.jpg)
+![minijeu](/AIProjectMinijeu.jpg)
+![minijeu2](/AIProjectMinijeu2.jpg)
 
 The intended audience is young people with an interest in IT, or older people not so familiar with new technologies.  
 
