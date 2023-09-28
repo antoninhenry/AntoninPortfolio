@@ -10,13 +10,13 @@ slug = "aiproject"
 
 ## Lyoko project
 
-Help the teacher Albert Inneiste with collecting data to train the brand new artificial intelligence ! You have to make it reach the other side of the room by itself.
+Help the teacher Albert Inneiste with collecting data in order to train the brand new artificial intelligence ! You have to make it reach the other side of the room by itself.
 
 ![](/AIProjectDialogue.jpg)
 
 ## Popularize AI
 
-This serious game is aiming to popularize simple concepts of AI and to remove the mystique surrounding it. You have to fill the AI with data by playing a mini-game, if your patterns are optimal then you're good to go, if they're bad the AI will not be efficient ! 
+This serious game is aiming to popularize simple concepts of AI and to remove the mystique surrounding it. You have to fill the AI with data by playing a mini-game, if your patterns are optimal then you're good to go, if they're bad the AI will not be efficient or will completely ruin its path.
 
 ![](/AIProjectMinijeu.jpg)
 ![](/AIProjectMinijeu2.jpg)
@@ -25,8 +25,8 @@ The intended audience is young people with an interest in IT, or older people no
 
 ## Context
 
-This project took place in a 3 months course in a team of 5 persons, where we were free to develop the game we wanted, as long as we used `Unity` and followed the **Time Loop** theme. This course also served as an introduction to the use of `Perforce` which is very valuable for the video game industry. Our team followed `Agile Scrum` management by using `Trello`.  
+This project took place in a 3 months course in a team of 7 persons on **serious games**. We approached this project as a problem which needed research methodology, so we documented the state of the art, the intended audience with persona, procedures to test the game, design issues... The subject was set by the teacher : make a serious game on Artificial Intelligence.
 
 ## My job
 
-I've done all the mini-game, platform usage and performance calculation.
+I've done the entire mini-game, platform usage and player's performance calculation.

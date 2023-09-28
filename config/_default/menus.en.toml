@@ -22,13 +22,13 @@
 [[main]]
   name = "Some other projects"
   parent = "More about me"
-  pageRef = "otherProjects"
+  pageRef = "projects/otherProjects"
   weight = 20
 
 [[main]]
   name = "Download resume"
   parent = "More about me"
-  pageRef = "posts"
+  path = "./resume.pdf"
   weight = 20
 
 #[[subnavigation]]

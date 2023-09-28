@@ -22,7 +22,7 @@ Take your friends and your guns with you and try to survive as many waves as you
 
 ## Context
 
-This little project is part of a 3 months course on network applied to gaming. We were a team of 3 people, and we learned to implement plugins for online features using `EOS (epic online services)`, such as login, lobby, sessions, leaderboards, achievements. It also allowed us to learn how to create a simple FPS character that can shoot, kill AI, pick up stuff, etc using `C++` and `blueprints` in `Unreal Engine`. The game is very prototypical and barely playable, nevertheless we learned a lot on online features and Unreal Engine.
+This little project is part of a 3 months course on **network** applied to gaming. We were a team of 3 people, and we learned to implement plugins for online features using `EOS (epic online services)`, such as login, lobby, sessions, leaderboards, achievements. It also allowed us to learn how to create a simple FPS character that can shoot, kill AI, pick up stuff, etc using `C++` and `blueprints` in `Unreal Engine`. The game is very prototypical and barely playable, nevertheless we learned a lot on online features and Unreal Engine.
 
 ![](/Solstice.jpg)
 ![](/solsticeAchievement.jpg)

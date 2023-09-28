@@ -10,7 +10,7 @@ slug = "djvr"
 
 ## Be a virtual DJ
 
-As a DJ, you'll have to liven things up and make the better sound possible through your virtual mixing desk. Mute the tracks you want, create a build-up, test the mixer effects such as distortion, reverb, filters and others, change the bpm... all that in a neon nightclub with synchronized visual effects.
+As a DJ, you'll have to liven things up and make the better sound possible through your virtual mixing desk. Mute the tracks you want, create a build-up, test the mixer effects such as distortion, reverb, filters and others, change the bpm... all of this in a neon nightclub with synchronized visual effects.
 
 ## Context
 

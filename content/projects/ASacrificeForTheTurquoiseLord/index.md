@@ -11,7 +11,7 @@ keywords = [ "unity" ]
 
 ## Rescue your sister !
 
-In antique aztec civilization, a god manipulating time receives offerings from the faithful. One day, your little sister is chosen for this year offering ! Pursue the guards that caught her in the obscure and mysterious temple of the Turquoise Lord.
+In antique aztec civilization, a god manipulating time receives offerings from the faithful. One day, your little sister is chosen for this year's offering ! Pursue the guards that caught her in the obscure and mysterious temple of this god, the Turquoise Lord.
 
 ![TurquoiseLord](/kbfrnC.gif)
 
@@ -27,7 +27,7 @@ This project took place in a 3 months course in a team of 5 persons, where we we
 
 ## My job
 
-I made all the **interaction system** which make it easy to build the puzzles, I've contributed to some **animations** and 2D sprites using `Piskel`, I managed the respawn / death of the player, and I've done a part of the **level design**. 
+I made all the **interaction system** which make it easy to build puzzles, I've contributed to some **animations** and 2D sprites using `Piskel`, I managed the respawn / death of the player, and I've done a part of the **level design**. 
 
 ## More...
 
