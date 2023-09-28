@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Antonin&#39;s Portfolio</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on Antonin&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2023 Antonin Henry</copyright>
+    <lastBuildDate>Thu, 25 May 2023 15:10:29 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>game</title>
+      <link>/categories/game/</link>
+      <pubDate>Thu, 25 May 2023 15:10:29 +0000</pubDate>
+      
+      <guid>/categories/game/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>VR</title>
+      <link>/categories/vr/</link>
+      <pubDate>Mon, 27 Feb 2023 12:59:07 +0000</pubDate>
+      
+      <guid>/categories/vr/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>app</title>
+      <link>/categories/app/</link>
+      <pubDate>Fri, 28 Jan 2022 08:46:55 +0000</pubDate>
+      
+      <guid>/categories/app/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

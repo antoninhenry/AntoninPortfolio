@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>app on Antonin&#39;s Portfolio</title>
+    <link>/categories/app/</link>
+    <description>Recent content in app on Antonin&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2023 Antonin Henry</copyright>
+    <lastBuildDate>Fri, 28 Jan 2022 08:46:55 +0000</lastBuildDate><atom:link href="/categories/app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Other Projects</title>
+      <link>/projects/otherprojects/</link>
+      <pubDate>Fri, 28 Jan 2022 08:46:55 +0000</pubDate>
+      
+      <guid>/projects/otherprojects/</guid>
+      <description>Quick summary on other relevant subjects I approached.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

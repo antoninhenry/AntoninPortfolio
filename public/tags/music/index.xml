@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>music on Antonin&#39;s Portfolio</title>
+    <link>/tags/music/</link>
+    <description>Recent content in music on Antonin&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2023 Antonin Henry</copyright>
+    <lastBuildDate>Mon, 27 Feb 2023 12:59:07 +0000</lastBuildDate><atom:link href="/tags/music/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DJVR</title>
+      <link>/projects/djvr/</link>
+      <pubDate>Mon, 27 Feb 2023 12:59:07 +0000</pubDate>
+      
+      <guid>/projects/djvr/</guid>
+      <description>VR experimental game where you play as a DJ.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/projects/djvr/featureDJVR.png" />
+    </item>
+    
+  </channel>
+</rss>

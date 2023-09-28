@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish"
-baseURL = "https://antoninhenry.github.io/AntoninPortfolio"
+#baseURL = "https://antoninhenry.github.io/AntoninPortfolio"
 defaultContentLanguage = "en"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
@@ -15,12 +15,7 @@ summaryLength = 0
 buildDrafts = false
 buildFuture = false
 
-ignoreErrors = ["error-remote-getjson"]
-
 # googleAnalytics = "G-XXXXXXXXX"
-
-[security.funcs]
-getenv = [ "^HUGO_", "^WC_" ]
 
 [imaging]
   anchor = 'Center'

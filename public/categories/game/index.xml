@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>game on Antonin&#39;s Portfolio</title>
+    <link>/categories/game/</link>
+    <description>Recent content in game on Antonin&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2023 Antonin Henry</copyright>
+    <lastBuildDate>Thu, 25 May 2023 15:10:29 +0000</lastBuildDate><atom:link href="/categories/game/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Abstrack</title>
+      <link>/projects/abstrack/</link>
+      <pubDate>Thu, 25 May 2023 15:10:29 +0000</pubDate>
+      
+      <guid>/projects/abstrack/</guid>
+      <description>3D action-parkour with chaotic environment.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/projects/abstrack/featuredAbstrack.png" />
+    </item>
+    
+    <item>
+      <title>DJVR</title>
+      <link>/projects/djvr/</link>
+      <pubDate>Mon, 27 Feb 2023 12:59:07 +0000</pubDate>
+      
+      <guid>/projects/djvr/</guid>
+      <description>VR experimental game where you play as a DJ.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/projects/djvr/featureDJVR.png" />
+    </item>
+    
+    <item>
+      <title>Solstice</title>
+      <link>/projects/solstice/</link>
+      <pubDate>Thu, 26 Jan 2023 13:39:44 +0000</pubDate>
+      
+      <guid>/projects/solstice/</guid>
+      <description>Very prototypical game to learn online features.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/projects/solstice/featureSolstice.jpg" />
+    </item>
+    
+    <item>
+      <title>AIProject</title>
+      <link>/projects/aiproject/</link>
+      <pubDate>Thu, 26 Jan 2023 12:20:46 +0000</pubDate>
+      
+      <guid>/projects/aiproject/</guid>
+      <description>Serious game about AI concepts.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/projects/aiproject/featureAI.jpg" />
+    </item>
+    
+    <item>
+      <title>A Sacrifice For The Turquoise Lord</title>
+      <link>/projects/sacrifice-turquoise-lord/</link>
+      <pubDate>Mon, 26 Sep 2022 09:49:04 +0000</pubDate>
+      
+      <guid>/projects/sacrifice-turquoise-lord/</guid>
+      <description>Puzzle game based on time loop mechanics.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/projects/sacrifice-turquoise-lord/featureTurquoise.png" />
+    </item>
+    
+  </channel>
+</rss>
