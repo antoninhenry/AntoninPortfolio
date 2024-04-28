@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Java on Antonin&#39;s Portfolio</title>
-    <link>http://localhost:1313/AntoninPortfolio/tags/java/</link>
+    <link>//localhost:1313/tags/java/</link>
     <description>Recent content in Java on Antonin&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Antonin Henry</copyright>
-    <lastBuildDate>Fri, 28 Jan 2022 08:46:55 +0000</lastBuildDate><atom:link href="http://localhost:1313/AntoninPortfolio/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Jan 2022 08:46:55 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/java/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Other Projects</title>
-      <link>http://localhost:1313/AntoninPortfolio/projects/otherprojects/</link>
+      <link>//localhost:1313/projects/otherprojects/</link>
       <pubDate>Fri, 28 Jan 2022 08:46:55 +0000</pubDate>
       
-      <guid>http://localhost:1313/AntoninPortfolio/projects/otherprojects/</guid>
+      <guid>//localhost:1313/projects/otherprojects/</guid>
       <description>Quick summary on other relevant subjects I approached.</description>
       
     </item>

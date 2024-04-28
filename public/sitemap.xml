@@ -3,49 +3,49 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/AntoninPortfolio/</loc>
+    <loc>//localhost:1313/</loc>
     <lastmod>2024-04-28T16:15:01+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/AntoninPortfolio/projects/abstrack/</loc>
+    <loc>//localhost:1313/projects/abstrack/</loc>
     <lastmod>2023-05-25T15:10:29+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/AntoninPortfolio/projects/</loc>
+    <loc>//localhost:1313/projects/</loc>
     <lastmod>2023-05-25T15:10:29+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/AntoninPortfolio/projects/djvr/</loc>
+    <loc>//localhost:1313/projects/djvr/</loc>
     <lastmod>2023-02-27T12:59:07+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/AntoninPortfolio/projects/solstice/</loc>
+    <loc>//localhost:1313/projects/solstice/</loc>
     <lastmod>2023-01-26T13:39:44+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/AntoninPortfolio/projects/aiproject/</loc>
+    <loc>//localhost:1313/projects/aiproject/</loc>
     <lastmod>2023-01-26T12:20:46+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/AntoninPortfolio/projects/sacrifice-turquoise-lord/</loc>
+    <loc>//localhost:1313/projects/sacrifice-turquoise-lord/</loc>
     <lastmod>2022-09-26T09:49:04+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/AntoninPortfolio/projects/otherprojects/</loc>
+    <loc>//localhost:1313/projects/otherprojects/</loc>
     <lastmod>2022-01-28T08:46:55+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

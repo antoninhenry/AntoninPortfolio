@@ -2,188 +2,188 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Antonin&#39;s Portfolio</title>
-    <link>http://localhost:1313/AntoninPortfolio/tags/</link>
+    <link>//localhost:1313/tags/</link>
     <description>Recent content in Tags on Antonin&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Antonin Henry</copyright>
-    <lastBuildDate>Thu, 25 May 2023 15:10:29 +0000</lastBuildDate><atom:link href="http://localhost:1313/AntoninPortfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 May 2023 15:10:29 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>3D</title>
-      <link>http://localhost:1313/AntoninPortfolio/tags/3d/</link>
+      <link>//localhost:1313/tags/3d/</link>
       <pubDate>Thu, 25 May 2023 15:10:29 +0000</pubDate>
       
-      <guid>http://localhost:1313/AntoninPortfolio/tags/3d/</guid>
+      <guid>//localhost:1313/tags/3d/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>C#</title>
-      <link>http://localhost:1313/AntoninPortfolio/tags/c%23/</link>
+      <link>//localhost:1313/tags/c%23/</link>
       <pubDate>Thu, 25 May 2023 15:10:29 +0000</pubDate>
       
-      <guid>http://localhost:1313/AntoninPortfolio/tags/c%23/</guid>
+      <guid>//localhost:1313/tags/c%23/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>First Person</title>
-      <link>http://localhost:1313/AntoninPortfolio/tags/first-person/</link>
+      <link>//localhost:1313/tags/first-person/</link>
       <pubDate>Thu, 25 May 2023 15:10:29 +0000</pubDate>
       
-      <guid>http://localhost:1313/AntoninPortfolio/tags/first-person/</guid>
+      <guid>//localhost:1313/tags/first-person/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Parkour</title>
-      <link>http://localhost:1313/AntoninPortfolio/tags/parkour/</link>
+      <link>//localhost:1313/tags/parkour/</link>
       <pubDate>Thu, 25 May 2023 15:10:29 +0000</pubDate>
       
-      <guid>http://localhost:1313/AntoninPortfolio/tags/parkour/</guid>
+      <guid>//localhost:1313/tags/parkour/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Unity</title>
-      <link>http://localhost:1313/AntoninPortfolio/tags/unity/</link>
+      <link>//localhost:1313/tags/unity/</link>
       <pubDate>Thu, 25 May 2023 15:10:29 +0000</pubDate>
       
-      <guid>http://localhost:1313/AntoninPortfolio/tags/unity/</guid>
+      <guid>//localhost:1313/tags/unity/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Experimental</title>
-      <link>http://localhost:1313/AntoninPortfolio/tags/experimental/</link>
+      <link>//localhost:1313/tags/experimental/</link>
       <pubDate>Mon, 27 Feb 2023 12:59:07 +0000</pubDate>
       
-      <guid>http://localhost:1313/AntoninPortfolio/tags/experimental/</guid>
+      <guid>//localhost:1313/tags/experimental/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Music</title>
-      <link>http://localhost:1313/AntoninPortfolio/tags/music/</link>
+      <link>//localhost:1313/tags/music/</link>
       <pubDate>Mon, 27 Feb 2023 12:59:07 +0000</pubDate>
       
-      <guid>http://localhost:1313/AntoninPortfolio/tags/music/</guid>
+      <guid>//localhost:1313/tags/music/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>C&#43;&#43;</title>
-      <link>http://localhost:1313/AntoninPortfolio/tags/c&#43;&#43;/</link>
+      <link>//localhost:1313/tags/c&#43;&#43;/</link>
       <pubDate>Thu, 26 Jan 2023 13:39:44 +0000</pubDate>
       
-      <guid>http://localhost:1313/AntoninPortfolio/tags/c&#43;&#43;/</guid>
+      <guid>//localhost:1313/tags/c&#43;&#43;/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>EOS</title>
-      <link>http://localhost:1313/AntoninPortfolio/tags/eos/</link>
+      <link>//localhost:1313/tags/eos/</link>
       <pubDate>Thu, 26 Jan 2023 13:39:44 +0000</pubDate>
       
-      <guid>http://localhost:1313/AntoninPortfolio/tags/eos/</guid>
+      <guid>//localhost:1313/tags/eos/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Online</title>
-      <link>http://localhost:1313/AntoninPortfolio/tags/online/</link>
+      <link>//localhost:1313/tags/online/</link>
       <pubDate>Thu, 26 Jan 2023 13:39:44 +0000</pubDate>
       
-      <guid>http://localhost:1313/AntoninPortfolio/tags/online/</guid>
+      <guid>//localhost:1313/tags/online/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Unreal Engine</title>
-      <link>http://localhost:1313/AntoninPortfolio/tags/unreal-engine/</link>
+      <link>//localhost:1313/tags/unreal-engine/</link>
       <pubDate>Thu, 26 Jan 2023 13:39:44 +0000</pubDate>
       
-      <guid>http://localhost:1313/AntoninPortfolio/tags/unreal-engine/</guid>
+      <guid>//localhost:1313/tags/unreal-engine/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>AI</title>
-      <link>http://localhost:1313/AntoninPortfolio/tags/ai/</link>
+      <link>//localhost:1313/tags/ai/</link>
       <pubDate>Thu, 26 Jan 2023 12:20:46 +0000</pubDate>
       
-      <guid>http://localhost:1313/AntoninPortfolio/tags/ai/</guid>
+      <guid>//localhost:1313/tags/ai/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Serious Game</title>
-      <link>http://localhost:1313/AntoninPortfolio/tags/serious-game/</link>
+      <link>//localhost:1313/tags/serious-game/</link>
       <pubDate>Thu, 26 Jan 2023 12:20:46 +0000</pubDate>
       
-      <guid>http://localhost:1313/AntoninPortfolio/tags/serious-game/</guid>
+      <guid>//localhost:1313/tags/serious-game/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>2D</title>
-      <link>http://localhost:1313/AntoninPortfolio/tags/2d/</link>
+      <link>//localhost:1313/tags/2d/</link>
       <pubDate>Mon, 26 Sep 2022 09:49:04 +0000</pubDate>
       
-      <guid>http://localhost:1313/AntoninPortfolio/tags/2d/</guid>
+      <guid>//localhost:1313/tags/2d/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Pixel Art</title>
-      <link>http://localhost:1313/AntoninPortfolio/tags/pixel-art/</link>
+      <link>//localhost:1313/tags/pixel-art/</link>
       <pubDate>Mon, 26 Sep 2022 09:49:04 +0000</pubDate>
       
-      <guid>http://localhost:1313/AntoninPortfolio/tags/pixel-art/</guid>
+      <guid>//localhost:1313/tags/pixel-art/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Android</title>
-      <link>http://localhost:1313/AntoninPortfolio/tags/android/</link>
+      <link>//localhost:1313/tags/android/</link>
       <pubDate>Fri, 28 Jan 2022 08:46:55 +0000</pubDate>
       
-      <guid>http://localhost:1313/AntoninPortfolio/tags/android/</guid>
+      <guid>//localhost:1313/tags/android/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Java</title>
-      <link>http://localhost:1313/AntoninPortfolio/tags/java/</link>
+      <link>//localhost:1313/tags/java/</link>
       <pubDate>Fri, 28 Jan 2022 08:46:55 +0000</pubDate>
       
-      <guid>http://localhost:1313/AntoninPortfolio/tags/java/</guid>
+      <guid>//localhost:1313/tags/java/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Python</title>
-      <link>http://localhost:1313/AntoninPortfolio/tags/python/</link>
+      <link>//localhost:1313/tags/python/</link>
       <pubDate>Fri, 28 Jan 2022 08:46:55 +0000</pubDate>
       
-      <guid>http://localhost:1313/AntoninPortfolio/tags/python/</guid>
+      <guid>//localhost:1313/tags/python/</guid>
       <description></description>
       
     </item>

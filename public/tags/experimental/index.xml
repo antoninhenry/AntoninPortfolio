@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Experimental on Antonin&#39;s Portfolio</title>
-    <link>http://localhost:1313/AntoninPortfolio/tags/experimental/</link>
+    <link>//localhost:1313/tags/experimental/</link>
     <description>Recent content in Experimental on Antonin&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Antonin Henry</copyright>
-    <lastBuildDate>Mon, 27 Feb 2023 12:59:07 +0000</lastBuildDate><atom:link href="http://localhost:1313/AntoninPortfolio/tags/experimental/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Feb 2023 12:59:07 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/experimental/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DJVR</title>
-      <link>http://localhost:1313/AntoninPortfolio/projects/djvr/</link>
+      <link>//localhost:1313/projects/djvr/</link>
       <pubDate>Mon, 27 Feb 2023 12:59:07 +0000</pubDate>
       
-      <guid>http://localhost:1313/AntoninPortfolio/projects/djvr/</guid>
+      <guid>//localhost:1313/projects/djvr/</guid>
       <description>VR experimental game where you play as a DJ.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/AntoninPortfolio/projects/djvr/featureDJVR.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/projects/djvr/featureDJVR.png" />
     </item>
     
   </channel>

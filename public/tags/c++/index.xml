@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>C&#43;&#43; on Antonin&#39;s Portfolio</title>
-    <link>http://localhost:1313/AntoninPortfolio/tags/c&#43;&#43;/</link>
+    <link>//localhost:1313/tags/c&#43;&#43;/</link>
     <description>Recent content in C&#43;&#43; on Antonin&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Antonin Henry</copyright>
-    <lastBuildDate>Thu, 26 Jan 2023 13:39:44 +0000</lastBuildDate><atom:link href="http://localhost:1313/AntoninPortfolio/tags/c++/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 Jan 2023 13:39:44 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/c++/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Solstice</title>
-      <link>http://localhost:1313/AntoninPortfolio/projects/solstice/</link>
+      <link>//localhost:1313/projects/solstice/</link>
       <pubDate>Thu, 26 Jan 2023 13:39:44 +0000</pubDate>
       
-      <guid>http://localhost:1313/AntoninPortfolio/projects/solstice/</guid>
+      <guid>//localhost:1313/projects/solstice/</guid>
       <description>Very prototypical game to learn online features.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/AntoninPortfolio/projects/solstice/featureSolstice.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/projects/solstice/featureSolstice.jpg" />
     </item>
     
     <item>
       <title>Other Projects</title>
-      <link>http://localhost:1313/AntoninPortfolio/projects/otherprojects/</link>
+      <link>//localhost:1313/projects/otherprojects/</link>
       <pubDate>Fri, 28 Jan 2022 08:46:55 +0000</pubDate>
       
-      <guid>http://localhost:1313/AntoninPortfolio/projects/otherprojects/</guid>
+      <guid>//localhost:1313/projects/otherprojects/</guid>
       <description>Quick summary on other relevant subjects I approached.</description>
       
     </item>
