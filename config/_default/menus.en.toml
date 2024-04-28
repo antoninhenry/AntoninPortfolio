@@ -28,7 +28,7 @@
 [[main]]
   name = "Download resume"
   parent = "More about me"
-  url = "/CV-FR.pdf"
+  url = "/cv-fr.pdf"
   weight = 20
 
 #[[subnavigation]]
