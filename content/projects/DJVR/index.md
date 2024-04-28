@@ -2,7 +2,7 @@
 title = "DJVR"
 date = 2023-02-27T12:59:07.000Z
 draft = false
-tags = [ "3D", "Experimental", "music", "Unity" ]
+tags = [ "3D", "C#", "Experimental", "Unity", "music" ]
 categories = [ "game", "VR" ]
 summary = "VR experimental game where you play as a DJ."
 slug = "djvr"

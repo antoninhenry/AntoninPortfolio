@@ -82,5 +82,6 @@
       "title": "projects",
       "path": "[[workspace]]/content/projects"
     }
-  ]
+  ],
+  "frontMatter.git.enabled": true
 }

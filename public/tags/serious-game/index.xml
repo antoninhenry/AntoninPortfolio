@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>serious game on Antonin&#39;s Portfolio</title>
-    <link>/tags/serious-game/</link>
-    <description>Recent content in serious game on Antonin&#39;s Portfolio</description>
+    <title>Serious Game on Antonin&#39;s Portfolio</title>
+    <link>http://localhost:1313/AntoninPortfolio/tags/serious-game/</link>
+    <description>Recent content in Serious Game on Antonin&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2023 Antonin Henry</copyright>
-    <lastBuildDate>Thu, 26 Jan 2023 12:20:46 +0000</lastBuildDate><atom:link href="/tags/serious-game/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2024 Antonin Henry</copyright>
+    <lastBuildDate>Thu, 26 Jan 2023 12:20:46 +0000</lastBuildDate><atom:link href="http://localhost:1313/AntoninPortfolio/tags/serious-game/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AIProject</title>
-      <link>/projects/aiproject/</link>
+      <link>http://localhost:1313/AntoninPortfolio/projects/aiproject/</link>
       <pubDate>Thu, 26 Jan 2023 12:20:46 +0000</pubDate>
       
-      <guid>/projects/aiproject/</guid>
+      <guid>http://localhost:1313/AntoninPortfolio/projects/aiproject/</guid>
       <description>Serious game about AI concepts.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/projects/aiproject/featureAI.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/AntoninPortfolio/projects/aiproject/featureAI.jpg" />
     </item>
     
   </channel>

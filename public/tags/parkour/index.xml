@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>parkour on Antonin&#39;s Portfolio</title>
-    <link>/tags/parkour/</link>
-    <description>Recent content in parkour on Antonin&#39;s Portfolio</description>
+    <title>Parkour on Antonin&#39;s Portfolio</title>
+    <link>http://localhost:1313/AntoninPortfolio/tags/parkour/</link>
+    <description>Recent content in Parkour on Antonin&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2023 Antonin Henry</copyright>
-    <lastBuildDate>Thu, 25 May 2023 15:10:29 +0000</lastBuildDate><atom:link href="/tags/parkour/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2024 Antonin Henry</copyright>
+    <lastBuildDate>Thu, 25 May 2023 15:10:29 +0000</lastBuildDate><atom:link href="http://localhost:1313/AntoninPortfolio/tags/parkour/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Abstrack</title>
-      <link>/projects/abstrack/</link>
+      <link>http://localhost:1313/AntoninPortfolio/projects/abstrack/</link>
       <pubDate>Thu, 25 May 2023 15:10:29 +0000</pubDate>
       
-      <guid>/projects/abstrack/</guid>
+      <guid>http://localhost:1313/AntoninPortfolio/projects/abstrack/</guid>
       <description>3D action-parkour with chaotic environment.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/projects/abstrack/featuredAbstrack.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/AntoninPortfolio/projects/abstrack/featuredAbstrack.png" />
     </item>
     
   </channel>

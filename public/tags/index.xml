@@ -2,178 +2,188 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Antonin&#39;s Portfolio</title>
-    <link>/tags/</link>
+    <link>http://localhost:1313/AntoninPortfolio/tags/</link>
     <description>Recent content in Tags on Antonin&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2023 Antonin Henry</copyright>
-    <lastBuildDate>Thu, 25 May 2023 15:10:29 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2024 Antonin Henry</copyright>
+    <lastBuildDate>Thu, 25 May 2023 15:10:29 +0000</lastBuildDate><atom:link href="http://localhost:1313/AntoninPortfolio/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>3D</title>
-      <link>/tags/3d/</link>
+      <link>http://localhost:1313/AntoninPortfolio/tags/3d/</link>
       <pubDate>Thu, 25 May 2023 15:10:29 +0000</pubDate>
       
-      <guid>/tags/3d/</guid>
+      <guid>http://localhost:1313/AntoninPortfolio/tags/3d/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>first person</title>
-      <link>/tags/first-person/</link>
+      <title>C#</title>
+      <link>http://localhost:1313/AntoninPortfolio/tags/c%23/</link>
       <pubDate>Thu, 25 May 2023 15:10:29 +0000</pubDate>
       
-      <guid>/tags/first-person/</guid>
+      <guid>http://localhost:1313/AntoninPortfolio/tags/c%23/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>parkour</title>
-      <link>/tags/parkour/</link>
+      <title>First Person</title>
+      <link>http://localhost:1313/AntoninPortfolio/tags/first-person/</link>
       <pubDate>Thu, 25 May 2023 15:10:29 +0000</pubDate>
       
-      <guid>/tags/parkour/</guid>
+      <guid>http://localhost:1313/AntoninPortfolio/tags/first-person/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>unity</title>
-      <link>/tags/unity/</link>
+      <title>Parkour</title>
+      <link>http://localhost:1313/AntoninPortfolio/tags/parkour/</link>
       <pubDate>Thu, 25 May 2023 15:10:29 +0000</pubDate>
       
-      <guid>/tags/unity/</guid>
+      <guid>http://localhost:1313/AntoninPortfolio/tags/parkour/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Unity</title>
+      <link>http://localhost:1313/AntoninPortfolio/tags/unity/</link>
+      <pubDate>Thu, 25 May 2023 15:10:29 +0000</pubDate>
+      
+      <guid>http://localhost:1313/AntoninPortfolio/tags/unity/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Experimental</title>
-      <link>/tags/experimental/</link>
+      <link>http://localhost:1313/AntoninPortfolio/tags/experimental/</link>
       <pubDate>Mon, 27 Feb 2023 12:59:07 +0000</pubDate>
       
-      <guid>/tags/experimental/</guid>
+      <guid>http://localhost:1313/AntoninPortfolio/tags/experimental/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>music</title>
-      <link>/tags/music/</link>
+      <title>Music</title>
+      <link>http://localhost:1313/AntoninPortfolio/tags/music/</link>
       <pubDate>Mon, 27 Feb 2023 12:59:07 +0000</pubDate>
       
-      <guid>/tags/music/</guid>
+      <guid>http://localhost:1313/AntoninPortfolio/tags/music/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>C&#43;&#43;</title>
-      <link>/tags/c&#43;&#43;/</link>
+      <link>http://localhost:1313/AntoninPortfolio/tags/c&#43;&#43;/</link>
       <pubDate>Thu, 26 Jan 2023 13:39:44 +0000</pubDate>
       
-      <guid>/tags/c&#43;&#43;/</guid>
+      <guid>http://localhost:1313/AntoninPortfolio/tags/c&#43;&#43;/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>EOS</title>
-      <link>/tags/eos/</link>
+      <link>http://localhost:1313/AntoninPortfolio/tags/eos/</link>
       <pubDate>Thu, 26 Jan 2023 13:39:44 +0000</pubDate>
       
-      <guid>/tags/eos/</guid>
+      <guid>http://localhost:1313/AntoninPortfolio/tags/eos/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>online</title>
-      <link>/tags/online/</link>
+      <title>Online</title>
+      <link>http://localhost:1313/AntoninPortfolio/tags/online/</link>
       <pubDate>Thu, 26 Jan 2023 13:39:44 +0000</pubDate>
       
-      <guid>/tags/online/</guid>
+      <guid>http://localhost:1313/AntoninPortfolio/tags/online/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Unreal Engine</title>
-      <link>/tags/unreal-engine/</link>
+      <link>http://localhost:1313/AntoninPortfolio/tags/unreal-engine/</link>
       <pubDate>Thu, 26 Jan 2023 13:39:44 +0000</pubDate>
       
-      <guid>/tags/unreal-engine/</guid>
+      <guid>http://localhost:1313/AntoninPortfolio/tags/unreal-engine/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>AI</title>
-      <link>/tags/ai/</link>
+      <link>http://localhost:1313/AntoninPortfolio/tags/ai/</link>
       <pubDate>Thu, 26 Jan 2023 12:20:46 +0000</pubDate>
       
-      <guid>/tags/ai/</guid>
+      <guid>http://localhost:1313/AntoninPortfolio/tags/ai/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>serious game</title>
-      <link>/tags/serious-game/</link>
+      <title>Serious Game</title>
+      <link>http://localhost:1313/AntoninPortfolio/tags/serious-game/</link>
       <pubDate>Thu, 26 Jan 2023 12:20:46 +0000</pubDate>
       
-      <guid>/tags/serious-game/</guid>
+      <guid>http://localhost:1313/AntoninPortfolio/tags/serious-game/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>2D</title>
-      <link>/tags/2d/</link>
+      <link>http://localhost:1313/AntoninPortfolio/tags/2d/</link>
       <pubDate>Mon, 26 Sep 2022 09:49:04 +0000</pubDate>
       
-      <guid>/tags/2d/</guid>
+      <guid>http://localhost:1313/AntoninPortfolio/tags/2d/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>pixel art</title>
-      <link>/tags/pixel-art/</link>
+      <title>Pixel Art</title>
+      <link>http://localhost:1313/AntoninPortfolio/tags/pixel-art/</link>
       <pubDate>Mon, 26 Sep 2022 09:49:04 +0000</pubDate>
       
-      <guid>/tags/pixel-art/</guid>
+      <guid>http://localhost:1313/AntoninPortfolio/tags/pixel-art/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Android</title>
-      <link>/tags/android/</link>
+      <link>http://localhost:1313/AntoninPortfolio/tags/android/</link>
       <pubDate>Fri, 28 Jan 2022 08:46:55 +0000</pubDate>
       
-      <guid>/tags/android/</guid>
+      <guid>http://localhost:1313/AntoninPortfolio/tags/android/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Java</title>
-      <link>/tags/java/</link>
+      <link>http://localhost:1313/AntoninPortfolio/tags/java/</link>
       <pubDate>Fri, 28 Jan 2022 08:46:55 +0000</pubDate>
       
-      <guid>/tags/java/</guid>
+      <guid>http://localhost:1313/AntoninPortfolio/tags/java/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Python</title>
-      <link>/tags/python/</link>
+      <link>http://localhost:1313/AntoninPortfolio/tags/python/</link>
       <pubDate>Fri, 28 Jan 2022 08:46:55 +0000</pubDate>
       
-      <guid>/tags/python/</guid>
+      <guid>http://localhost:1313/AntoninPortfolio/tags/python/</guid>
       <description></description>
       
     </item>

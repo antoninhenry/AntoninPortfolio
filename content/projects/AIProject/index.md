@@ -3,7 +3,7 @@ title = "AIProject"
 date = 2023-01-26T12:20:46.000Z
 draft = false
 summary = "Serious game about AI concepts."
-tags = [ "3D", "AI", "first person", "Unity", "serious game" ]
+tags = [ "3D", "AI", "C#", "Unity", "first person", "serious game" ]
 categories = [ "game" ]
 slug = "aiproject"
 +++

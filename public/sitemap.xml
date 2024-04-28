@@ -1,125 +1,53 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-    
-      <url>
-            <loc>/</loc>
-            <lastmod>2023-09-25T13:46:45+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-      <url>
-            <loc>/projects/abstrack/</loc>
-            <lastmod>2023-05-25T15:10:29+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>/projects/</loc>
-            <lastmod>2023-05-25T15:10:29+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>/projects/djvr/</loc>
-            <lastmod>2023-02-27T12:59:07+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>/projects/solstice/</loc>
-            <lastmod>2023-01-26T13:39:44+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>/projects/aiproject/</loc>
-            <lastmod>2023-01-26T12:20:46+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>/projects/sacrifice-turquoise-lord/</loc>
-            <lastmod>2022-09-26T09:49:04+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>/projects/otherprojects/</loc>
-            <lastmod>2022-01-28T08:46:55+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-  
+
+  <url>
+    <loc>http://localhost:1313/AntoninPortfolio/</loc>
+    <lastmod>2024-04-28T16:15:01+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/AntoninPortfolio/projects/abstrack/</loc>
+    <lastmod>2023-05-25T15:10:29+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/AntoninPortfolio/projects/</loc>
+    <lastmod>2023-05-25T15:10:29+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/AntoninPortfolio/projects/djvr/</loc>
+    <lastmod>2023-02-27T12:59:07+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/AntoninPortfolio/projects/solstice/</loc>
+    <lastmod>2023-01-26T13:39:44+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/AntoninPortfolio/projects/aiproject/</loc>
+    <lastmod>2023-01-26T12:20:46+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/AntoninPortfolio/projects/sacrifice-turquoise-lord/</loc>
+    <lastmod>2022-09-26T09:49:04+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/AntoninPortfolio/projects/otherprojects/</loc>
+    <lastmod>2022-01-28T08:46:55+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
 </urlset>

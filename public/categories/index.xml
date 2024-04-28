@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Antonin&#39;s Portfolio</title>
-    <link>/categories/</link>
+    <link>http://localhost:1313/AntoninPortfolio/categories/</link>
     <description>Recent content in Categories on Antonin&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2023 Antonin Henry</copyright>
-    <lastBuildDate>Thu, 25 May 2023 15:10:29 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2024 Antonin Henry</copyright>
+    <lastBuildDate>Thu, 25 May 2023 15:10:29 +0000</lastBuildDate><atom:link href="http://localhost:1313/AntoninPortfolio/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>game</title>
-      <link>/categories/game/</link>
+      <title>Game</title>
+      <link>http://localhost:1313/AntoninPortfolio/categories/game/</link>
       <pubDate>Thu, 25 May 2023 15:10:29 +0000</pubDate>
       
-      <guid>/categories/game/</guid>
+      <guid>http://localhost:1313/AntoninPortfolio/categories/game/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>VR</title>
-      <link>/categories/vr/</link>
+      <link>http://localhost:1313/AntoninPortfolio/categories/vr/</link>
       <pubDate>Mon, 27 Feb 2023 12:59:07 +0000</pubDate>
       
-      <guid>/categories/vr/</guid>
+      <guid>http://localhost:1313/AntoninPortfolio/categories/vr/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>app</title>
-      <link>/categories/app/</link>
+      <title>App</title>
+      <link>http://localhost:1313/AntoninPortfolio/categories/app/</link>
       <pubDate>Fri, 28 Jan 2022 08:46:55 +0000</pubDate>
       
-      <guid>/categories/app/</guid>
+      <guid>http://localhost:1313/AntoninPortfolio/categories/app/</guid>
       <description></description>
       
     </item>

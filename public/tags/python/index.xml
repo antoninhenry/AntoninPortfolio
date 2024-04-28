@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Python on Antonin&#39;s Portfolio</title>
-    <link>/tags/python/</link>
+    <link>http://localhost:1313/AntoninPortfolio/tags/python/</link>
     <description>Recent content in Python on Antonin&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2023 Antonin Henry</copyright>
-    <lastBuildDate>Fri, 28 Jan 2022 08:46:55 +0000</lastBuildDate><atom:link href="/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2024 Antonin Henry</copyright>
+    <lastBuildDate>Fri, 28 Jan 2022 08:46:55 +0000</lastBuildDate><atom:link href="http://localhost:1313/AntoninPortfolio/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Other Projects</title>
-      <link>/projects/otherprojects/</link>
+      <link>http://localhost:1313/AntoninPortfolio/projects/otherprojects/</link>
       <pubDate>Fri, 28 Jan 2022 08:46:55 +0000</pubDate>
       
-      <guid>/projects/otherprojects/</guid>
+      <guid>http://localhost:1313/AntoninPortfolio/projects/otherprojects/</guid>
       <description>Quick summary on other relevant subjects I approached.</description>
       
     </item>

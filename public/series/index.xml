@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Antonin&#39;s Portfolio</title>
-    <link>/series/</link>
+    <link>http://localhost:1313/AntoninPortfolio/series/</link>
     <description>Recent content in Series on Antonin&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2023 Antonin Henry</copyright>
-    <atom:link href="/series/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2024 Antonin Henry</copyright>
+    <atom:link href="http://localhost:1313/AntoninPortfolio/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

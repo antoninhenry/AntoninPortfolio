@@ -2,7 +2,7 @@
 title = "A Sacrifice For The Turquoise Lord"
 date = 2022-09-26T09:49:04.000Z
 draft = false
-tags = [ "2D", "pixel art", "Unity" ]
+tags = [ "2D", "C#", "Unity", "pixel art" ]
 categories = [ "game" ]
 slug = "sacrifice-turquoise-lord"
 summary = "Puzzle game based on time loop mechanics."
